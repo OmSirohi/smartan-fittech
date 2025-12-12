@@ -1,0 +1,8 @@
+{
+  "name": "PoseMaster AI Backend Simulator",
+  "description": "A full-stack architecture simulator demonstrating MediaPipe-style keypoint extraction using Gemini 2.5, data persistence, and automated backup workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
